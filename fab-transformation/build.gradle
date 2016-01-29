@@ -81,7 +81,7 @@ install {
 }
 
 dependencies {
-    compile 'com.nineoldandroids:library:2.4.0+'
+    compile 'com.nineoldandroids:library:2.4.0'
 }
 
 task sourcesJar(type: Jar) {
