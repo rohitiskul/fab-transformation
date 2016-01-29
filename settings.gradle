@@ -1,1 +1,1 @@
-include ':fab-transformation', ':example'
+include ':fab-transformation'
